@@ -1,0 +1,64 @@
+{
+  "deliverables/Blumenpyramide-V3-Film-HD.mp4": {
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "r_frame_rate": "60/1",
+          "nb_frames": "1800",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "1409"
+        }
+      ],
+      "format": {
+        "duration": "30.016000",
+        "size": "10657880"
+      }
+    },
+    "sha256": "8fec481c87e1399173774da7f312caf4071c2f56f8283d27505e0507397ebacd",
+    "full_decode": "passed"
+  },
+  "deliverables/Blumenpyramide-V3-Film-leger.mp4": {
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "r_frame_rate": "60/1",
+          "nb_frames": "1800",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "1408"
+        }
+      ],
+      "format": {
+        "duration": "30.016000",
+        "size": "4118370"
+      }
+    },
+    "sha256": "7d548e21e5bdf388208b2c1b8487ebff55bf6072dc9442ae22e865b49442f60c",
+    "full_decode": "passed"
+  }
+}
